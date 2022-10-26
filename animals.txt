@@ -1,3 +1,5 @@
 “1 Dog”
 “2 Cat”
-“5 Ant”
+“3 Elephant”
+“4 Dolphin"
+"5 Ant"
